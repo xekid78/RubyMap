@@ -1,0 +1,2 @@
+# RubyMap
+mapメソッド
